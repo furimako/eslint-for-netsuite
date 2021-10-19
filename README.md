@@ -1,2 +1,3 @@
-# eslint-for-netsuite
-ESLint setting for NetSuite
+
+# NetSuite の便利ツール
+## ESLint setting for NetSuite
