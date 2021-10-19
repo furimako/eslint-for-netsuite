@@ -1,13 +1,10 @@
 {
     "name": "eslint-for-netsuite",
     "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
+    "description": "ESLint setting for NetSuite",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
-    "license": "ISC",
     "devDependencies": {
         "eslint": "^7.32.0",
         "eslint-config-airbnb-base": "^14.2.1",
