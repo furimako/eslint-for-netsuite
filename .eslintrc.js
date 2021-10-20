@@ -33,6 +33,7 @@ module.exports = {
         'no-use-before-define': 'off',
         'no-else-return': 'off',
         'no-lonely-if': 'off',
-        'no-plusplus': 'off'
+        'no-plusplus': 'off',
+        'linebreak-style': 'off'
     }
 };
