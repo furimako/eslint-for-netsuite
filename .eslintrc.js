@@ -34,6 +34,7 @@ module.exports = {
         'no-else-return': 'off',
         'no-lonely-if': 'off',
         'no-plusplus': 'off',
+        'no-alert': 'off',
         'linebreak-style': 'off'
     }
 };
