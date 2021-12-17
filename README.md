@@ -1,5 +1,5 @@
 
-# NetSuite向け便利ツールの導入手順
+# SuiteScript用Lintツールの導入手順 (Visual Studio Code)
 ## 事前準備
 1. [Visual Studio Code](https://code.visualstudio.com/) をインストール
 1. [Git](https://git-scm.com/downloads) をインストール
@@ -14,7 +14,7 @@
     ```
 
 ## SuiteScript ファイルの配置
-1. 「eslint-for-netsuite」フォルダの下に「src」フォルダを作成し、その中にLintツールを実行したい SuiteScript ファイルを配置する
+1. 自動生成された「eslint-for-netsuite」フォルダの下に「src」フォルダを作成し、その中にLintツールを実行したい SuiteScript ファイルを配置する
     - (例) eslint-for-netsuite/src/sample-code.js
 
 ## Visual Studio Codeの設定
