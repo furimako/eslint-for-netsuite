@@ -15,10 +15,11 @@ module.exports = {
     },
     rules: {
         indent: ['error', 4, { SwitchCase: 1 }],
+        semi: ['error', 'never'],
         camelcase: 'off',
         'import/no-amd': 'off',
-        'no-trailing-spaces': ['error', { skipBlankLines: true }],
         'comma-dangle': ['error', 'never'],
+        'no-trailing-spaces': ['error', { skipBlankLines: true }],
         'no-underscore-dangle': 'off',
         'no-use-before-define': ['error', { functions: false, variables: true }],
         'no-else-return': 'off',
@@ -49,4 +50,4 @@ module.exports = {
         ]
 
     }
-};
+}
