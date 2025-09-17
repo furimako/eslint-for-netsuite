@@ -20,7 +20,7 @@
 ### Visual Studio Codeの設定
 1. [Visual Studio Code](https://code.visualstudio.com/) を開いて [「ESLint」という拡張機能](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) をインストールする
 
-## 2. UserEventScript (SuiteScript) で使えない JavaScript のシンタックス
+## 2. SuiteScript 2.0 (UserEventScript) で使えない JavaScript のシンタックス
 - let, const
 - for-of
 - \`${variable}\`
