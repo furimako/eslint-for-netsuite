@@ -1,6 +1,6 @@
 module.exports = {
     env: { browser: true, node: true, amd: true },
-    parserOptions: { ecmaVersion: 6 },
+    parserOptions: { ecmaVersion: 2017 },
     extends: ['airbnb-base'],
     globals: { log: 'readonly' },
     rules: {
